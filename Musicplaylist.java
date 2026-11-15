@@ -11,6 +11,7 @@ class Node{
     }
 }
 
+
 class playlist{
     Node head = null;
     Node tail = null;
@@ -97,6 +98,7 @@ class playlist{
         }
     }
 }
+
 
 public class Musicplaylist{
     public static void main(String[] args){
